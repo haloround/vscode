@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
-
+// 添加注释 
 int main()
 {
 	pid_t pid;
